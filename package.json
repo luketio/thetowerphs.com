@@ -17,7 +17,7 @@
 		"prepare": "husky install"
 	},
 	"dependencies": {
-		"@prisma/client": "^3.15.0",
+		"@prisma/client": "^4.1.0",
 		"@react-icons/all-files": "^4.1.0",
 		"dayjs": "^1.11.3",
 		"lodash": "^4.17.21",
